@@ -24,7 +24,7 @@ class App extends Component {
             </p>
           </Fragment>
         </MuiThemeProvider>
-        <CssBaseline/>
+        </CssBaseline>
       </Router>
     );
   }
