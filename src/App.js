@@ -1,16 +1,30 @@
+// REACT IMPORTS //
 import React, { Component, Fragment } from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
+
+// GRAPHQL IMPORTS //
+import ApolloClient from "apollo-boost";
+import { ApolloProvider } from "react-apollo";
+
+// MATERIAL-UI IMPORTS //
 import CssBaseline from '@material-ui/core/CssBaseline';
 import { MuiThemeProvider, createMuiTheme } from '@material-ui/core/styles';
+
 import logo from './logo.svg';
 import './App.css';
 
-const theme = createMuiTheme({});
 
+const client = new ApolloClient({
+  uri: "http://localhost:4000"
+});
+
+const theme = createMuiTheme({});
 
 class App extends Component {
   render() {
     return (
+      // WRAPPERS = APOLLO GRAPHQL, REACT ROUTER, & MATERIAL-UI //
+      <ApolloProvider client={client}>
       <Router>
         <CssBaseline>
         <MuiThemeProvider theme={theme}>
@@ -26,6 +40,7 @@ class App extends Component {
         </MuiThemeProvider>
         </CssBaseline>
       </Router>
+      </ApolloProvider>
     );
   }
 }
