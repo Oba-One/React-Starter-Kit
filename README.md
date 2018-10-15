@@ -15,7 +15,7 @@ To get started simply clone or download the repo to your local machine. Navigate
 ### Dependencies
 List of packages/dependencies included in kit.
 
-* [**Create React App**](Create React App) -
+* [**Create React App**]("Create React App") -
 * **Material-UI** - CSS library based on Google's Material Design for React
 * **React-Spring** - Physic Based Animation Library for React
 * **React-Router** - Naviagation based package for React & React Native
@@ -83,7 +83,7 @@ A fully managed continuous integration, delivery, & deployment platform that let
 
 ## References
 
-* [Create React App](https://github.com/facebook/create-react-app)
+* [Create React App](https://github.com/facebook/create-react-app "Create React App")
 * [Storybook](https://storybook.js.org/)
 * [Bit](https://bitsrc.io/)
 * [React-Router](https://reacttraining.com/react-router/web/guides/philosophy)
