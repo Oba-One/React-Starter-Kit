@@ -8,19 +8,22 @@ The React Starter Kit offers neccesary and helpful packages and dependency for g
 It comes with React-Router, Axios, Material-UI, Styled Components, and more for quickly starting a project with minimal setup. Along with packages it comes configured with ESlint, Jest, Enzyme for linting, unit & integration testing, and debugging. Helping to catch errors before build time and ensure code is performant. For easy component development Storybook and Bit are implemented to make constructing compenents simpler and easy to share with developers. As well as continious integration with Circle CI so when you deploy changes they're automically integrated with production code. This is coupled with steps on how to deploy to Google Cloud's App Engine with integration with your repo and Circle CI. 
 
 ## Getting Started
+To get started simply clone or download the repo to your local machine. Navigate to your terminal and `cd` in to the prject directory. Run `npm start` to start the development server.
 
+*Read more to learn how to fully use the packages in the kit*
 
 ### Dependencies
 List of packages/dependencies included in kit.
 
-* Material-UI - CSS library based on Google's Material Design for React
-* React-Spring - Physic Based Animation Library for React
-* React-Router - Naviagation based package for React & React Native
-* Axios - Promise based data fetching API
-* Storybook - Isolated enviroment for developing React components
-* Bit - Cloud based service for sharing and uploading components
-* Jest - Facebbok made Javascript testing framework
-* Enzyme - React focused testing framework built by Air B&B
+* [**Create React App**](Create React App) -
+* **Material-UI** - CSS library based on Google's Material Design for React
+* **React-Spring** - Physic Based Animation Library for React
+* **React-Router** - Naviagation based package for React & React Native
+* **Axios** - Promise based data fetching API
+* **Storybook** - Isolated enviroment for developing React components
+* **Bit** - Cloud based service for sharing and uploading components
+* **Jest** - Facebbok made Javascript testing framework
+* **Enzyme** - React focused testing framework built by Air B&B
 
 ### Create React App
 Create React apps with no build configuration.
