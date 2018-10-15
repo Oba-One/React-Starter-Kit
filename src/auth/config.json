@@ -1,0 +1,7 @@
+{
+    "oauth": {
+        "domain": "oba-one.auth0.com",
+        "clientID": "Zh0sAdgVD7XC4f0tgvqKLqhUAfhfhIls",
+        "redirectUri": "http://localhost:3000/callback"
+    }
+}

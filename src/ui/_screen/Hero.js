@@ -28,3 +28,5 @@ function PaperSheet(props) {
     </div>
   );
 }
+
+export default withStyles()(PaperSheet);
