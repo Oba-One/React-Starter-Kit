@@ -1,6 +1,5 @@
 # React Starter Kit
 ![React Logo](./assets/react-logo.png)
-
 ***
 
 ## Overview
@@ -36,19 +35,23 @@ User Guide – How to develop apps bootstrapped with Create React App.
 ### Component Development
 
 #### Storybook
+![Storybook Logo](./assets/storybook.png)
 Storybook is a development environment for UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
 
 #### Bit
+![bit Logo](./assets/bit.jpg)
 Bit creates a faster, distributed workflow for developing components from different repositories. Using Bit you can import components into any repository for further development, even if they're installed with NPM. Changes can then be synced across projects with smart updates and cross-repo component change merges.
 
 ### UI/UX Design
 
 #### React-Router
+![React-Router Logo](./assets/react-router.jpg)
 Components are the heart of React's powerful, declarative programming model. React Router is a collection of navigational components that compose declaratively with your application. Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native, React Router works wherever React is rendering--so take your pick!
 #### React-Spring
 A set of spring-physics based primitives (as in building blocks) that should cover most of your UI related animation needs once plain CSS can't cope any longer. Forget easings, durations, timeouts and so on as you fluidly move data from one state to another. This isn't meant to solve each and every problem but rather to give you tools flexible enough to confidently cast ideas into moving interfaces.
 #### React-Transition
 #### Material-UI
+![Material-UI Logo](./assets/material-ui.jpg)
 React components that implement Google's Material Design.
 ### Data Fetching
 
@@ -56,16 +59,19 @@ React components that implement Google's Material Design.
 Promise based HTTP client for the browser and node.js
 
 #### Apollo
+![Apollo Logo](./assets/apollo.jpg)
 Apollo Client is the best way to use GraphQL to build client applications. The client is designed to help you quickly build a UI that fetches data with GraphQL, and can be used with any JavaScript front-end.
 
 ### Authentication & Authorization
 
 #### Auth0
+![Auth0 Logo](./assets/auth0.jpg)
 We provide a universal authentication & authorization platform for web, mobile, and legacy applications.
 
 ### Testing & Debugging
 
 #### Jest
+![Jest Logo](./assets/jest.jpg)
 Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience. We observed that when engineers are provided with ready-to-use tools, they end up writing more tests, which in turn results in more stable and healthy code bases.
 
 #### Enzyme
@@ -76,6 +82,7 @@ Enzyme's API is meant to be intuitive and flexible by mimicking jQuery's API for
 ### Continious Development/Integraion
 
 #### CircleCI
+![Circle-CI Logo](./assets/circleci.jpg)
 CircleCI gives your team more speed and configurability than ever before. Automate your pipeline from commit to deploy
 
 #### Docker
