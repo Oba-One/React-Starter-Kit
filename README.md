@@ -26,7 +26,7 @@ List of packages/dependencies included in kit.
 * [**Bit**](https://bitsrc.io/) - Cloud based service for sharing and uploading components
 * [**Jest**](https://jestjs.io/) - Facebbok made Javascript testing framework
 * [**Enzyme**](https://airbnb.io/enzyme/) - React focused testing framework built by Air B&B
-* [**Circle CI**](https://circleci.com/product/)
+* [**Circle CI**](https://circleci.com/product/) - 
 
 ### Create React App
 Create React apps with no build configuration.
