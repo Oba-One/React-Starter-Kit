@@ -16,14 +16,17 @@ To get started simply clone or download the repo to your local machine. Navigate
 List of packages/dependencies included in kit.
 
 * [**Create React App**](https://github.com/facebook/create-react-app) -
-* **Material-UI** - CSS library based on Google's Material Design for React
-* **React-Spring** - Physic Based Animation Library for React
-* **React-Router** - Naviagation based package for React & React Native
-* **Axios** - Promise based data fetching API
-* **Storybook** - Isolated enviroment for developing React components
-* **Bit** - Cloud based service for sharing and uploading components
-* **Jest** - Facebbok made Javascript testing framework
-* **Enzyme** - React focused testing framework built by Air B&B
+* [**Material-UI**](https://material-ui.com/) - CSS library based on Google's Material Design for React
+* [**React-Spring**](https://github.com/drcmda/react-spring) - Physic Based Animation Library for React
+* [**React-Router**](https://reacttraining.com/react-router/web/guides/philosophy) - Naviagation based package for React & React Native
+* [**Apollo**](https://www.apollographql.com/docs/react/)
+* [**Axios**](https://github.com/axios/axios) - Promise based data fetching API
+* [**Storybook**](https://storybook.js.org/) - Isolated enviroment for developing React components
+* [**Auth0**](https://auth0.com/)
+* [**Bit**](https://bitsrc.io/) - Cloud based service for sharing and uploading components
+* [**Jest**](https://jestjs.io/) - Facebbok made Javascript testing framework
+* [**Enzyme**](https://airbnb.io/enzyme/) - React focused testing framework built by Air B&B
+* [**Circle CI**](https://circleci.com/product/)
 
 ### Create React App
 Create React apps with no build configuration.
@@ -83,19 +86,8 @@ A fully managed continuous integration, delivery, & deployment platform that let
 
 ## References
 
-* [Create React App](https://github.com/facebook/create-react-app "Create React App")
-* [Storybook](https://storybook.js.org/)
-* [Bit](https://bitsrc.io/)
-* [React-Router](https://reacttraining.com/react-router/web/guides/philosophy)
-* [React-Spring](https://github.com/drcmda/react-spring)
+
 * [React-Transition](http://github.com)
-* [Material-UI](http://github.com)
-* [Axios](https://github.com/axios/axios)
-[Apollo](https://www.apollographql.com/docs/react/)
-* [Auth0](https://auth0.com/)
-* [Jest](https://jestjs.io/)
-* [Enzyme](https://airbnb.io/enzyme/)
-* [CircleCI](https://circleci.com/product/)
 * [Docker](https://www.docker.com/)
 * [Cloud Build](https://cloud.google.com/cloud-build/)
 
