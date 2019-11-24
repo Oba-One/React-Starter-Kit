@@ -17,7 +17,7 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "3.0.0",
     "react-spring": "^5.6.14",
-    "snyk": "^1.165.0"
+    "snyk": "^1.251.0"
   },
   "devDependencies": {
     "@dump247/storybook-state": "^1.5.0",
